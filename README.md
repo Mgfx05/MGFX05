@@ -1,12 +1,8 @@
-<!--
-  SETUP: replace every occurrence of `manikanthagowda` below with your real
-  GitHub username so the stats, streak, trophies, views, and snake work.
-  Full setup notes are in the collapsible section at the very bottom.
--->
+<!-- GitHub username (Mgfx05) is already filled in below for the profile-views/followers badges. -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00F5FF&height=220&section=header&text=Manikantha%20Gowda&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Robotics%20%26%20AI%20Developer&descAlignY=55&descSize=20&descColor=00F5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:00F5FF&height=220&section=header&text=Manikantha%20Gowda&fontSize=46&fontColor=F0F6FC&animation=fadeIn&fontAlignY=35&desc=Robotics%20and%20AI%20Developer&descAlignY=55&descSize=20&descColor=00F5FF" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1200&color=00F5FF&center=true&vCenter=true&width=680&lines=%3E+booting+robotics_ai_developer.exe;%3E+status%3A+building+autonomous+systems+%F0%9F%A4%96;%3E+loading+ROS+2%2C+Computer+Vision+modules;%3E+ready+to+collaborate+_" alt="Typing SVG" />
@@ -20,34 +16,51 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manikanthagowda&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/manikanthagowda?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=Mgfx05&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Mgfx05?label=FOLLOWERS&style=for-the-badge&color=00F5FF&labelColor=0D1117"/>
 
 <br/><br/>
-<img src="./assets/circuit-divider.svg" width="100%"/>
 
 </div>
+
+---
 
 ## `$` About Me
 
-```
-
-$ whoami
-> Manikantha Gowda — Robotics & AI Developer
-
-$ cat status.log
-[BUILDING]   Intelligent AI Robotic Systems
-[LEARNING]   ROS 2 · Computer Vision · Applied AI
-[SEEKING]    Collaborators for Robotics / AI / Automation projects
-[OPEN TO]    Support on Advanced Robotics & AI Systems
-[ASK ME]     Robotics · Python · C++ · Raspberry Pi · ESP32 · ROS
-[CONTACT]    gowdamanikanth@gmail.com
-
-```
-
 <div align="center">
-<img src="./assets/circuit-divider.svg" width="100%"/>
+
+### 🤖 Manikantha Gowda — Robotics & AI Developer
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/BUILDING-7C3AED?style=for-the-badge&labelColor=0D1117"/></td>
+<td>Intelligent AI Robotic Systems</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/LEARNING-00F5FF?style=for-the-badge&labelColor=0D1117"/></td>
+<td>ROS 2 · Computer Vision · Applied AI</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/SEEKING-39FF14?style=for-the-badge&labelColor=0D1117"/></td>
+<td>Collaborators for Robotics / AI / Automation projects</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/OPEN%20TO-FFB020?style=for-the-badge&labelColor=0D1117"/></td>
+<td>Support on Advanced Robotics & AI Systems</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/ASK%20ME-7C3AED?style=for-the-badge&labelColor=0D1117"/></td>
+<td>Robotics · Python · C++ · Raspberry Pi · ESP32 · ROS</td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/CONTACT-00F5FF?style=for-the-badge&labelColor=0D1117"/></td>
+<td><a href="mailto:gowdamanikanth@gmail.com">gowdamanikanth@gmail.com</a></td>
+</tr>
+</table>
+
 </div>
+
+---
 
 ## `$` Languages & Tools
 
@@ -79,46 +92,38 @@ $ cat status.log
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-<div align="center">
-<img src="./assets/circuit-divider.svg" width="100%"/>
-</div>
+---
 
 ## `$` GitHub Analytics
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manikanthagowda&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanthagowda&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Mgfx05&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mgfx05&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=C9D1D9&langs_count=8"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manikanthagowda&hide_border=true&background=0D1117&ring=7C3AED&fire=FFB020&currStreakLabel=00F5FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mgfx05&hide_border=true&background=0D1117&ring=7C3AED&fire=FFB020&currStreakLabel=00F5FF"/>
 </p>
 
-<div align="center">
-<img src="./assets/circuit-divider.svg" width="100%"/>
-</div>
+---
 
 ## `$` Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manikanthagowda&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10&row=2"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mgfx05&theme=onedark&no-frame=true&column=7&margin-w=10&margin-h=10&row=2"/>
 </div>
 
-<div align="center">
-<img src="./assets/circuit-divider.svg" width="100%"/>
-</div>
+---
 
 ## `$` Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/manikanthagowda/manikanthagowda/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Mgfx05/Mgfx05/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" width="100%"/>
 </div>
 
 > Needs a one-time GitHub Actions setup — see `snake-workflow.yml` and the notes below.
 
-<div align="center">
-<img src="./assets/circuit-divider.svg" width="100%"/>
-</div>
+---
 
 ## `$` Connect
 
@@ -138,22 +143,18 @@ $ cat status.log
 </div>
 
 <details>
-<summary>⚙️ Setup notes (click to expand)</summary>
+<summary>⚙️ Notes (click to expand)</summary>
 
-**1. Replace the placeholder username**
-Every `manikanthagowda` in this file (profile views, followers, stats, streak, trophies, snake) is a placeholder. Find-and-replace it with your real GitHub username.
+Your username (`Mgfx05`) is already filled in everywhere — profile views, followers, stats, streak, trophies, and snake.
 
-**2. Upload the circuit divider**
-Keep `assets/circuit-divider.svg` in your profile repo at the same relative path — it's what draws the animated pulse-line dividers between sections.
-
-**3. Turn on the contribution snake (optional but recommended)**
-- Create/open the special repo named exactly like your username (`github.com/<username>/<username>`).
+**Turn on the contribution snake (one-time setup):**
+- Open the special repo named exactly like your username (`github.com/Mgfx05/Mgfx05`) — create it if it doesn't exist yet, with a README initialized.
 - Add `snake-workflow.yml` to that repo as `.github/workflows/snake.yml`.
-- Go to the **Actions** tab of that repo and enable workflows, then run it once manually (`Run workflow`).
-- It will publish the animated SVG to an `output` branch, which the README already links to.
+- Go to the repo's **Actions** tab, enable workflows, open the workflow, and click **Run workflow** once.
+- It publishes the animated SVG to an `output` branch, which this README already links to.
 
-**4. Optional next steps**
-- Swap the `onedark` trophy theme or the stats hex colors for any palette you like — all of these services take color params.
-- Add a pinned-repos section using `github-readme-stats`'s pin card endpoint if you want to spotlight specific robotics/AI projects.
+**If the stats/streak/trophy cards look empty:** those services read your public commit history, so a brand-new or very quiet account may render a mostly-blank card at first — it should fill in as you push more commits.
+
+**Want to change the look?** All of these services take color params — swap the hex codes or the `onedark` trophy theme for any palette you like.
 
 </details>
