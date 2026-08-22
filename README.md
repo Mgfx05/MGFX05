@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### 🤖 Manikantha Gowda — Robotics & AI Developer
+### Manikantha Gowda — Robotics & AI Developer
 
 <table>
 <tr>
