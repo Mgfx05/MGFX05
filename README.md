@@ -142,7 +142,7 @@
 
 </div>
 
-<details>
+<!-- <details>
 <summary>⚙️ Notes (click to expand)</summary>
 
 Your username (`Mgfx05`) is already filled in everywhere — profile views, followers, stats, streak, trophies, and snake.
@@ -157,4 +157,4 @@ Your username (`Mgfx05`) is already filled in everywhere — profile views, foll
 
 **Want to change the look?** All of these services take color params — swap the hex codes or the `onedark` trophy theme for any palette you like.
 
-</details>
+</details> -->
